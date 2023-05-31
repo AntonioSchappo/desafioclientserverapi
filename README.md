@@ -1,5 +1,16 @@
 # desafioclientserverapi
 
+- How to run:
+
+* Run command docker-compose up to create docker image for mysql
+
+* Run commands below to access mysql server in order to issue commands or check functionality
+    docker-compose exec mysql bash
+    mysql -uroot -p goexpert
+
+
+Challenge description in Portuguese below:
+
 Neste desafio vamos aplicar o que aprendemos sobre webserver http, contextos,
 banco de dados e manipulação de arquivos com Go.
  
