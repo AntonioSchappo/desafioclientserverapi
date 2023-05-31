@@ -5,8 +5,8 @@
 * Run command docker-compose up to create docker image for mysql
 
 * Run commands below to access mysql server in order to issue commands or check functionality
-    docker-compose exec mysql bash
-    mysql -uroot -p goexpert
+   * docker-compose exec mysql bash
+   * mysql -uroot -p goexpert
 
 
 Challenge description in Portuguese below:
